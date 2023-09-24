@@ -41,9 +41,9 @@
 }
 
 .carousel-inner img{
-  
   max-height: 40.625rem;
   object-fit: cover;
+  min-height: 40.625rem;
 }
 
 H2{
